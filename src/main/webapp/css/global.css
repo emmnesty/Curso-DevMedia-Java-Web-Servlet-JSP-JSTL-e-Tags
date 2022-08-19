@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+body{
+	font-family: Segoe Ui, Arial, Times;
+	font-size: 1.2rem;
+
+	background: #e0f7fa;
+}
+
+fieldset {
+	width: 300px;
+	padding: 15px;
+	margin: auto;
+	text-decoration: none;
+	
+}
+
+input {
+	width: 300px;
+	padding: 5px;	
+	margin: 4px;
+}
+
+.submit {
+	height: 30px;
+	width: 100px;
+	margin: 5px;
+	font-weight: bold;
+	font-size: 1.0rem;
+}
+
+.submit:hover{
+	background:#ccc;
+	color:#fff;
+}
+
+.logar {
+	display: flex;
+	justify-content: center;
+	
+}
+
+fieldset a{
+	font-size: 0.9rem;
+	text-decoration: none;
+}
+
+
+
+
+
